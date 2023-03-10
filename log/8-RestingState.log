@@ -1,0 +1,24 @@
+Scenario - 
+Logfile written - 02/28/2023 15:17:40
+
+Subject	Trial	Event Type	Code	Time	TTime	Uncertainty	Duration	Uncertainty	ReqTime	ReqDur	Stim Type	Pair Index
+
+8	0	Manual	Cond2_Resting_EEG_trials.txt	38	38	NA
+8	1	Response	1	67354	67188	2
+8	2	Picture	Instruction_close.wav	67502	0	2	159807	2	0	next	other	0
+8	2	Quit		222554	155052	NA
+
+
+{
+   "app": "Presentation Version 20.1 Build 12.04.17",
+   "device": "FUJITSU ",
+   "experiment": "{BDBFB76B-1733-4E04-81E5-285AD2A48582}",
+   "os": "Windows 10 64 bit",
+   "package": "",
+   "parameters": {
+      "configuration": "Default configuration"
+   },
+   "scenario": "RestingState.sce",
+   "subject": "8",
+   "timestamp": "2023/02/28 14:17:14 GMT"
+}

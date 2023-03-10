@@ -1,0 +1,8 @@
+Instruction_open.wav	1
+Instruction_close.wav	2
+Instruction_leave_closed.wav	2
+Instruction_open.wav	1
+Instruction_close.wav	2
+Instruction_open.wav	1
+Instruction_leave_open.wav	1
+Instruction_close.wav	2

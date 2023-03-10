@@ -1,0 +1,20 @@
+# Readme:
+# Uncomment the line with "string instr_new" and the correct language
+# All other lines should be commented (initial #)
+# Transaltions were taken from the Psychopy version
+
+
+# German
+string instr_new = "Zunächst werden Prozesse des Gehirns unter Entspannungsbedingungen untersucht.\n\n Es ist daher in diesem Teil der Untersuchung sehr wichtig, dass Sie sich möglichst gut entspannen. Während der Aufzeichnung des Ruhe EEGs werden Sie angewiesen, die Augen zu öffnen oder zu schließen. Wenn Sie die Augen öffnen, oder offen behalten sollen, dann richten Sie bitte ihren Blick entspannt auf den Monitor.\n\n Bei der Anweisung die Augen zu schließen, oder geschlossen zu lassen, folgen Sie dieser Anweisung entspannt.\n\n Um zu Beginnen, drücken Sie nun bitte die Leertaste.";
+
+# English
+#string instr_new = "First, processes of the brain will be examined under relaxation conditions.\n\n It is therefore very important in this part of the experiment that you relax as much as possible.\n During the recording of the resting EEG, you will be instructed to open or close your eyes. If you are instructed to open your eyes or to keep them open, please direct your relaxed gaze at the monitor.\n\n If you are instructed to close your eyes or to keep them closed, follow this instruction in a relaxed manner.\n\n To begin, press the space bar.";
+
+# Dutch
+#string instr_new = "Eerst zullen processen in het brein worden onderzocht in een ontspannen toestand. Het is daarom erg belangrijk dat u in dit deel van het experiment zo ontspannen mogelijk bent.\n\nTijdens de opname van uw EEG in rusttoestand zal u de instructies krijgen om uw ogen te openen of te sluiten. \n\nWanneer u de instructie krijgt om uw ogen te openen of uw ogen open te houden dan richt uw ontspannen blik alstublieft op het beeldscherm. Wanneer u de instructie krijgt om uw ogen te sluiten of uw ogen gesloten te houden, dan volg deze instructie op een onstpannen manier. \n\nOm te beginnen kunt u nu op de spatiebalk drukken.";
+
+# French
+#string instr_new = "Tout d’abord, nous allons étudier le comportement de votre cerveau au repos. Il est donc très important que vous soyez aussi détendu que possible pendant cette partie de l’expérience. \n\n Lors de l’enregistrement de l’EEG, il vous sera demandé d’ouvrir ou de fermer les yeux. Lorsque vous êtes invités à ouvrir les yeux, ou à les garder ouverts, veuillez diriger votre regard vers l’écran tout en restant détendu. \n\n Lorsque vous êtes invités à fermer les yeux, ou à les garder fermés, suivez cette consigne tout en restant détendu. \n\n Appuyez sur Espace pour commencer.";
+
+# Russian
+#string instr_new = "Сначала мы изучим работу мозга в состоянии покоя. Поэтому очень важно в этой части эксперимента, чтобы бы расслабились как можно сильнее.\n\n Во время записи ЭЭГ состояния покоя Вам будут даваться устные инструкции открыть или закрыть глаза. Если Вам будет дана инструкции открыть глаза или продолжать держать их открытыми, пожалуйста, спокойно смотрите на экран.\n\n Если Вам будет дана инструкция закрыть глаза или продолжать держать их закрытыми, спокойно следуйте этой инструкции.\n\n Чтобы начать, нажмите на клавишу пробел.";

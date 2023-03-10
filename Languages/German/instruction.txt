@@ -1,0 +1,6 @@
+string instr_new = "Zunächst werden Prozesse des Gehirns unter Entspannungsbedingungen untersucht.\n 
+					Es ist daher in diesem Teil der Untersuchung sehr wichtig, dass Sie sich möglichst gut entspannen.
+					Während der Aufzeichnung des Ruhe EEGs werden Sie angewiesen, die Augen zu öffnen oder zu schließen.
+					Wenn Sie die Augen öffnen, oder offen behalten sollen, dann richten Sie bitte ihren Blick entspannt auf den Monitor.
+					\n Bei der Anweisung die Augen zu schließen, oder geschlossen zu lassen, folgen Sie dieser Anweisung entspannt.
+					\n Um zu Beginnen, drücken Sie nun bitte die Leertaste.";

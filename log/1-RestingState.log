@@ -1,0 +1,20 @@
+Scenario - 
+Logfile written - 02/28/2023 15:12:05
+
+Subject	Trial	Event Type	Code	Time	TTime	Uncertainty	Duration	Uncertainty	ReqTime	ReqDur	Stim Type	Pair Index
+
+
+
+{
+   "app": "Presentation Version 20.1 Build 12.04.17",
+   "device": "FUJITSU ",
+   "experiment": "{BDBFB76B-1733-4E04-81E5-285AD2A48582}",
+   "os": "Windows 10 64 bit",
+   "package": "",
+   "parameters": {
+      "configuration": "Default configuration"
+   },
+   "scenario": "RestingState.sce",
+   "subject": "1",
+   "timestamp": "2023/02/28 14:11:59 GMT"
+}

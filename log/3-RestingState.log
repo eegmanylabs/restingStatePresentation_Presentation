@@ -1,0 +1,22 @@
+Scenario - 
+Logfile written - 02/28/2023 13:12:49
+
+Subject	Trial	Event Type	Code	Time	TTime	Uncertainty	Duration	Uncertainty	ReqTime	ReqDur	Stim Type	Pair Index
+
+3	0	Manual	Cond1_Resting_EEG_trials.txt	216	216	NA
+3	1	Quit		20434	20103	NA
+
+
+{
+   "app": "Presentation Version 23.1 Build 09.29.22",
+   "device": "Dell Inc. OptiPlex 7050",
+   "experiment": "{BDBFB76B-1733-4E04-81E5-285AD2A48582}",
+   "os": "Windows 10 64 bit",
+   "package": "",
+   "parameters": {
+      "configuration": "Default configuration"
+   },
+   "scenario": "RestingState.sce",
+   "subject": "3",
+   "timestamp": "2023/02/28 12:12:45 GMT"
+}
